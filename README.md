@@ -21,3 +21,14 @@ The following were the actions performed on the raw data provided:
 
 ### Exploratory Data Analysis
 This stage of data exploration  provided answers to some questions asked about the data set such as;
+-The total sales of products
+-Which region has the overall sales?
+-which month has the highest sales?
+-What is the total Revenue per product?
+-The average sales per product
+-Which product has no sales in the last quarter of the year 
+
+### Data Analysis
+``` Excel pivot tables were used in summarizing total sales by product, region, and month
+
+
