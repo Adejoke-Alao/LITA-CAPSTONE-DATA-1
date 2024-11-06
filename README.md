@@ -37,6 +37,8 @@ This stage of data exploration  provided answers to some questions asked about t
 With MS Excel Formulars, It was discovered that the Overall sales of products were 2101090. Gloves has the total sales of 296900, total Hats sales 316195, Jackets total sales 208230, 485600 shirts total sales, shoes total sales 613380, and socks has total sales of 180785. So it was deduced that the product with the highest number of sales was shoes while Socks happened to have the least number of sales.
 Also, the South Region has the highest Revenue with 927820 sales while the West has the least Revenue with 300345 sales.     
 
+![image](https://github.com/user-attachments/assets/2a16057f-cc25-4187-91d8-250e92bf557c)
+
 
 
 
