@@ -33,4 +33,10 @@ This stage of data exploration  provided answers to some questions asked about t
 ```SQL - Used for querying and validating; Total sales for each product category, number of sales transactions in each region, highest selling product by total sales value, total revenue per product, monthly sales for the current year, the top 5 customers by total purchase amount, percentage of total sales contributed by each region and identifying the product with no sale in the quarter.
 ```Power BI- used for summarizing and visualizing the data.
 
+### Findings And Results
+With MS Excel Formulars, It was discovered that the Overall sales of products were 2101090. Gloves has the total sales of 296900, total Hats sales 316195, Jackets total sales 208230, 485600 shirts total sales, shoes total sales 613380, and socks has total sales of 180785. So it was deduced that the product with the highest number of sales was shoes while Socks happened to have the least number of sales.
+Also, the South Region has the highest Revenue with 927820 sales while the West has the least Revenue with 300345 sales.     
+
+
+
 
