@@ -31,5 +31,6 @@ This stage of data exploration  provided answers to some questions asked about t
 ### Data Analysis
 ``` Excel pivot tables were used in summarizing total sales by product, region, and month.
 ```SQL - Used for querying and validating; Total sales for each product category, number of sales transactions in each region, highest selling product by total sales value, total revenue per product, monthly sales for the current year, the top 5 customers by total purchase amount, percentage of total sales contributed by each region and identifying the product with no sale in the quarter.
+```Power BI- used for summarizing and visualizing the data.
 
 
